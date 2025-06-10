@@ -1,0 +1,86 @@
+========================================
+ID Paciente: 556113
+Nombre: Natanael Sanabria Carmona
+Edad: 33 años
+Género: Hombre
+Alergias: YODO
+Patologías Crónicas: Chequeo General
+========================================
+ID Paciente: 798307
+Nombre: Juan Camacho Chico
+Edad: 52 años
+Género: Hombre
+Alergias: YODO
+Patologías Crónicas: Chequeo General
+========================================
+ID Paciente: 156817
+Nombre: Ofelia Ariño Albero
+Edad: 54 años
+Género: Mujer
+Alergias: Ninguna conocida
+Patologías Crónicas: Hipertensión Arterial
+========================================
+ID Paciente: 763930
+Nombre: Nicanor Cadenas Izquierdo
+Edad: 46 años
+Género: Hombre
+Alergias: SULFAMIDAS
+Patologías Crónicas: Chequeo General
+========================================
+ID Paciente: 410109
+Nombre: Natanael Amaya Isern
+Edad: 55 años
+Género: Hombre
+Alergias: SULFAMIDAS
+Patologías Crónicas: Hipertensión Arterial, Diabetes Mellitus Tipo 2, Dislipidemia
+========================================
+ID Paciente: 941162
+Nombre: Iris Prada Bermúdez
+Edad: 57 años
+Género: Mujer
+Alergias: Ninguna conocida
+Patologías Crónicas: Hipertensión Arterial, Diabetes Mellitus Tipo 2
+========================================
+ID Paciente: 943899
+Nombre: Guiomar Cámara Verdú
+Edad: 30 años
+Género: Hombre
+Alergias: Ninguna conocida
+Patologías Crónicas: EPOC
+========================================
+ID Paciente: 225917
+Nombre: Nadia Bernat Pinedo
+Edad: 66 años
+Género: Mujer
+Alergias: YODO, AAS (Ácido acetilsalicílico)
+Patologías Crónicas: Hipertensión Arterial, Diabetes Mellitus Tipo 2, Dislipidemia
+========================================
+ID Paciente: 963457
+Nombre: Nerea Pedraza Nebot
+Edad: 45 años
+Género: Mujer
+Alergias: MARISCO, ÁCAROS
+Patologías Crónicas: Chequeo General
+========================================
+ID Paciente: 6028
+Nombre: Eleuterio Roselló Cueto
+Edad: 41 años
+Género: Hombre
+Alergias: YODO
+Patologías Crónicas: EPOC
+
+
+==================================================
+RESUMEN ESTADÍSTICO GENERAL
+==================================================
+Número total de pacientes: 10
+
+Desglose por Género:
+  - Hombre: 6
+  - Mujer: 4
+
+Desglose por Rango de Edad:
+  - 0-17: 0
+  - 18-39: 2
+  - 40-64: 7
+  - 65+: 1

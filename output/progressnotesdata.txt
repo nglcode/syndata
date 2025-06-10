@@ -1,0 +1,472 @@
+idNota|contenido|idPaciente|nombrePlantilla|descripcionProceso|fechaCreacion|fechaModificacion|usuarioCreador|usuarioModificador
+3000000|<p>Paciente de 18 años. Acude para revisión general de salud. Asintomático.</p>|556113|Evolución Medicina|LABORATORIO|2010-04-01|2010-04-01|Iker Bello|Iker Bello
+3000001|<p>Paciente de 19 años. Acude para revisión general de salud. Asintomático.</p>|556113|Evolución Medicina|LABORATORIO|2011-04-09|2011-04-09|José Coloma|José Coloma
+3000002|<p>Paciente de 21 años. Acude para revisión general de salud. Asintomático.</p>|556113|Evolución Medicina|LABORATORIO|2013-01-09|2013-01-09|Martirio Oliver|Martirio Oliver
+3000003|<p>Paciente de 23 años. Acude para revisión general de salud. Asintomático.</p>|556113|Evolución Medicina|LABORATORIO|2014-10-13|2014-10-13|Aura Maldonado|Aura Maldonado
+3000004|<p>Paciente de 26 años. Acude para revisión general de salud. Asintomático.</p>|556113|Evolución Medicina|LABORATORIO|2017-11-16|2017-11-16|Fermín Puig|Fermín Puig
+3000005|<p>Paciente de 31 años. Acude para revisión general de salud. Asintomático.</p>|556113|Evolución Medicina|LABORATORIO|2023-07-14|2023-07-14|Inés Macías|Inés Macías
+3000006|<p>Paciente de 18 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|1991-02-27|1991-02-27|Gonzalo Ruano|Gonzalo Ruano
+3000007|<p>Paciente de 22 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|1995-04-21|1995-04-21|Luis Cáceres|Luis Cáceres
+3000008|<p>Paciente de 23 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|1996-03-23|1996-03-23|Odalys Llorente|Odalys Llorente
+3000009|<p>Paciente de 25 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|1998-12-04|1998-12-04|Benjamín Lamas|Benjamín Lamas
+3000010|<p>Paciente de 26 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|1999-01-28|1999-01-28|Mario Somoza|Mario Somoza
+3000011|<p>Paciente de 28 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2001-12-23|2001-12-23|Roque Ugarte|Roque Ugarte
+3000012|<p>Paciente de 30 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2004-01-12|2004-01-12|Daniela Vives|Daniela Vives
+3000013|<p>Paciente de 35 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2008-12-08|2008-12-08|Rosenda Conde|Rosenda Conde
+3000014|<p>Paciente de 36 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2009-02-14|2009-02-14|Sarita Cortina|Sarita Cortina
+3000015|<p>Paciente de 37 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2010-04-01|2010-04-01|Evelia Gargallo|Evelia Gargallo
+3000016|<p>Paciente de 38 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2011-11-06|2011-11-06|Reynaldo Benítez|Reynaldo Benítez
+3000017|<p>Paciente de 39 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2012-12-03|2012-12-03|Cesar Roig|Cesar Roig
+3000018|<p>Paciente de 40 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2013-08-28|2013-08-28|Apolinar Peiró|Apolinar Peiró
+3000019|<p>Paciente de 44 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2017-04-22|2017-04-22|Amelia Soto|Amelia Soto
+3000020|<p>Paciente de 45 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2018-12-06|2018-12-06|Soledad Manjón|Soledad Manjón
+3000021|<p>Paciente de 47 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2020-05-05|2020-05-05|Javier Valderrama|Javier Valderrama
+3000022|<p>Paciente de 51 años. Acude para revisión general de salud. Asintomático.</p>|798307|Evolución Medicina|LABORATORIO|2024-11-22|2024-11-22|Ricarda Alcolea|Ricarda Alcolea
+3000023|<p>Paciente de 49 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|156817|Evolución Cardiología|Consultas Externas Cardiología|2021-02-01|2021-02-01|Gema Lozano|Gema Lozano
+3000024|<p>Paciente de 51 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|156817|Evolución Medicina|Consultas Externas Medicina de Familia|2022-11-13|2022-11-13|Marisela Landa|Marisela Landa
+3000025|<p>Paciente de 52 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|156817|Evolución Medicina|Consultas Externas Medicina de Familia|2023-03-06|2023-03-06|Fulgencio Paz|Fulgencio Paz
+3000026|<p>Paciente de 52 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|156817|Evolución Cardiología|Consultas Externas Cardiología|2023-03-29|2023-03-29|Carmelita Mora|Carmelita Mora
+3000027|<p>Paciente de 53 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|156817|Evolución Medicina|Consultas Externas Medicina de Familia|2024-07-31|2024-07-31|Tristán Lloret|Tristán Lloret
+3000028|<p>Paciente de 53 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|156817|Evolución Cardiología|Consultas Externas Cardiología|2024-07-24|2024-07-24|Fernando Asenjo|Fernando Asenjo
+3000029|<p>Paciente de 53 años. HTA bien controlada. Acude a revisión anual.</p>|156817|Evolución Cardiología|Consultas Externas Cardiología|2024-12-22|2024-12-22|Fátima Castells|Fátima Castells
+3000030|<p>Paciente de 18 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|1996-12-03|1996-12-03|José Antonio Aguado|José Antonio Aguado
+3000031|<p>Paciente de 18 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|1997-05-19|1997-05-19|Soraya Ruiz|Soraya Ruiz
+3000032|<p>Paciente de 21 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2000-07-31|2000-07-31|Isa Portillo|Isa Portillo
+3000033|<p>Paciente de 23 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2002-03-10|2002-03-10|Ani Ribera|Ani Ribera
+3000034|<p>Paciente de 24 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2003-07-14|2003-07-14|Octavio Clemente|Octavio Clemente
+3000035|<p>Paciente de 26 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2005-01-22|2005-01-22|Hector Aguilar|Hector Aguilar
+3000036|<p>Paciente de 29 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2008-08-01|2008-08-01|Maura Roma|Maura Roma
+3000037|<p>Paciente de 30 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2009-08-18|2009-08-18|Modesta Falcó|Modesta Falcó
+3000038|<p>Paciente de 31 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2010-01-01|2010-01-01|Elisa Escobar|Elisa Escobar
+3000039|<p>Paciente de 33 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2011-12-31|2011-12-31|Coral Alfonso|Coral Alfonso
+3000040|<p>Paciente de 34 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2013-01-23|2013-01-23|Iker Bas|Iker Bas
+3000041|<p>Paciente de 35 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2014-09-27|2014-09-27|Charo Perez|Charo Perez
+3000042|<p>Paciente de 36 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2015-09-13|2015-09-13|Eliana Escobar|Eliana Escobar
+3000043|<p>Paciente de 40 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2019-03-06|2019-03-06|Joaquín Baquero|Joaquín Baquero
+3000044|<p>Paciente de 42 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2020-11-15|2020-11-15|Paloma Anglada|Paloma Anglada
+3000045|<p>Paciente de 43 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2022-10-01|2022-10-01|Lucila Ruiz|Lucila Ruiz
+3000046|<p>Paciente de 46 años. Acude para revisión general de salud. Asintomático.</p>|763930|Evolución Medicina|LABORATORIO|2025-04-04|2025-04-04|Federico Quintana|Federico Quintana
+3000047|<p>Paciente de 21 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|1991-05-04|1991-05-04|Etelvina Moraleda|Etelvina Moraleda
+3000048|<p>Paciente de 21 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|1991-04-28|1991-04-28|Hernán Bru|Hernán Bru
+3000049|<p>Paciente de 22 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|1992-08-09|1992-08-09|Martirio Prat|Martirio Prat
+3000050|<p>Paciente de 22 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|1992-08-06|1992-08-06|Ale Águila|Ale Águila
+3000051|<p>Paciente de 23 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|1993-10-03|1993-10-03|Claudia Cerro|Claudia Cerro
+3000052|<p>Paciente de 23 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|1993-10-07|1993-10-07|Anabel Pomares|Anabel Pomares
+3000053|<p>Paciente de 23 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|1993-10-23|1993-10-23|Andrés Rivera|Andrés Rivera
+3000054|<p>Paciente de 24 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|1994-10-01|1994-10-01|Moisés Cid|Moisés Cid
+3000055|<p>Paciente de 24 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|1994-10-12|1994-10-12|Irma Catalá|Irma Catalá
+3000056|<p>Paciente de 25 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|1995-02-12|1995-02-12|Bonifacio Sanz|Bonifacio Sanz
+3000057|<p>Paciente de 26 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|1996-11-20|1996-11-20|Violeta Arrieta|Violeta Arrieta
+3000058|<p>Paciente de 27 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|1997-02-24|1997-02-24|Charo Viñas|Charo Viñas
+3000059|<p>Paciente de 27 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|1997-03-04|1997-03-04|Perlita Jáuregui|Perlita Jáuregui
+3000060|<p>Paciente de 28 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|1998-09-23|1998-09-23|Duilio Carreras|Duilio Carreras
+3000061|<p>Paciente de 28 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|1998-10-19|1998-10-19|Clotilde Uribe|Clotilde Uribe
+3000062|<p>Paciente de 29 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|1999-04-13|1999-04-13|David Vargas|David Vargas
+3000063|<p>Paciente de 29 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|1999-04-19|1999-04-19|Camila Hidalgo|Camila Hidalgo
+3000064|<p>Paciente de 30 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2000-06-12|2000-06-12|Hermenegildo Dominguez|Hermenegildo Dominguez
+3000065|<p>Paciente de 30 años. Hiperglucemia en analítica rutinaria. Se confirma DM2.</p>|410109|Evolución Medicina|LABORATORIO|2000-05-29|2000-05-29|Candelaria Casals|Candelaria Casals
+3000066|<p>Paciente de 31 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2001-09-26|2001-09-26|Gertrudis Bonilla|Gertrudis Bonilla
+3000067|<p>Paciente de 31 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2001-10-01|2001-10-01|Geraldo Roldan|Geraldo Roldan
+3000068|<p>Paciente de 31 años. Hiperglucemia en analítica rutinaria. Se confirma DM2.</p>|410109|Evolución Endocrinología|LABORATORIO|2001-10-07|2001-10-07|Vilma Escrivá|Vilma Escrivá
+3000069|<p>Paciente de 31 años. Hiperglucemia en analítica rutinaria. Se confirma DM2.</p>|410109|Evolución Medicina|LABORATORIO|2001-10-02|2001-10-02|Rufina Morales|Rufina Morales
+3000070|<p>Paciente de 32 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2002-11-04|2002-11-04|Arsenio Asensio|Arsenio Asensio
+3000071|<p>Paciente de 32 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2002-10-31|2002-10-31|José Cruz|José Cruz
+3000072|<p>Paciente de 32 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2002-11-18|2002-11-18|José María Solís|José María Solís
+3000073|<p>Paciente de 32 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2002-11-15|2002-11-15|Jacinta Mir|Jacinta Mir
+3000074|<p>Paciente de 33 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2003-07-08|2003-07-08|Fausto Jara|Fausto Jara
+3000075|<p>Paciente de 33 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2003-07-02|2003-07-02|Macaria Fortuny|Macaria Fortuny
+3000076|<p>Paciente de 33 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2003-06-15|2003-06-15|Encarnita Julián|Encarnita Julián
+3000077|<p>Paciente de 33 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2003-07-12|2003-07-12|Venceslás Villa|Venceslás Villa
+3000078|<p>Paciente de 33 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2003-07-13|2003-07-13|Che Figueroa|Che Figueroa
+3000079|<p>Paciente de 33 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2003-06-15|2003-06-15|Paca Granados|Paca Granados
+3000080|<p>Paciente de 34 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2004-06-01|2004-06-01|Modesto Acuña|Modesto Acuña
+3000081|<p>Paciente de 34 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2004-06-03|2004-06-03|Aníbal Cabañas|Aníbal Cabañas
+3000082|<p>Paciente de 34 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2004-06-07|2004-06-07|Silvia Sobrino|Silvia Sobrino
+3000083|<p>Paciente de 34 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2004-06-08|2004-06-08|Pío Rebollo|Pío Rebollo
+3000084|<p>Paciente de 34 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2004-06-09|2004-06-09|Beatriz Mir|Beatriz Mir
+3000085|<p>Paciente de 34 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2004-06-03|2004-06-03|Mónica Angulo|Mónica Angulo
+3000086|<p>Paciente de 35 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2005-08-05|2005-08-05|Encarnacion Alberto|Encarnacion Alberto
+3000087|<p>Paciente de 35 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2005-08-27|2005-08-27|Ainara Melero|Ainara Melero
+3000088|<p>Paciente de 35 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2005-08-17|2005-08-17|Viviana Fortuny|Viviana Fortuny
+3000089|<p>Paciente de 35 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2005-08-31|2005-08-31|Marcelino Sola|Marcelino Sola
+3000090|<p>Paciente de 35 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2005-08-23|2005-08-23|Irene Carlos|Irene Carlos
+3000091|<p>Paciente de 35 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2005-12-24|2005-12-24|Moreno Bastida|Moreno Bastida
+3000092|<p>Paciente de 35 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2005-12-17|2005-12-17|Marcelo Arnal|Marcelo Arnal
+3000093|<p>Paciente de 37 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2007-08-14|2007-08-14|Gabino Cordero|Gabino Cordero
+3000094|<p>Paciente de 37 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2007-08-26|2007-08-26|África Sarmiento|África Sarmiento
+3000095|<p>Paciente de 37 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2007-08-20|2007-08-20|Dolores Chico|Dolores Chico
+3000096|<p>Paciente de 37 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2007-08-07|2007-08-07|Brígida Campoy|Brígida Campoy
+3000097|<p>Paciente de 37 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2008-01-20|2008-01-20|Silvia Pedrero|Silvia Pedrero
+3000098|<p>Paciente de 37 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2008-01-23|2008-01-23|Alondra Chamorro|Alondra Chamorro
+3000099|<p>Paciente de 37 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2008-01-09|2008-01-09|Marisa Cano|Marisa Cano
+3000100|<p>Paciente de 37 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2008-01-16|2008-01-16|Estrella Gomila|Estrella Gomila
+3000101|<p>Paciente de 37 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2007-12-30|2007-12-30|Bautista Céspedes|Bautista Céspedes
+3000102|<p>Paciente de 37 años. Cifras de Colesterol LDL elevadas.</p>|410109|Evolución Cardiología|LABORATORIO|2007-12-30|2007-12-30|Humberto Solé|Humberto Solé
+3000103|<p>Paciente de 39 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2009-11-13|2009-11-13|Nando Camps|Nando Camps
+3000104|<p>Paciente de 39 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2009-12-03|2009-12-03|Priscila Ruano|Priscila Ruano
+3000105|<p>Paciente de 39 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2009-11-17|2009-11-17|Leandro Valcárcel|Leandro Valcárcel
+3000106|<p>Paciente de 39 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2009-11-21|2009-11-21|Martina Aragón|Martina Aragón
+3000107|<p>Paciente de 39 años. Cifras de Colesterol LDL elevadas.</p>|410109|Evolución Medicina|LABORATORIO|2009-12-02|2009-12-02|Concha Patiño|Concha Patiño
+3000108|<p>Paciente de 40 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2010-07-08|2010-07-08|Amado Roda|Amado Roda
+3000109|<p>Paciente de 40 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2010-07-13|2010-07-13|Eulalia Murillo|Eulalia Murillo
+3000110|<p>Paciente de 40 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2010-07-08|2010-07-08|Manu Sacristán|Manu Sacristán
+3000111|<p>Paciente de 40 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2010-08-02|2010-08-02|Leonor Peral|Leonor Peral
+3000112|<p>Paciente de 40 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2010-07-08|2010-07-08|María Pilar Ibarra|María Pilar Ibarra
+3000113|<p>Paciente de 40 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Cardiología|LABORATORIO|2010-07-22|2010-07-22|Ángela Villegas|Ángela Villegas
+3000114|<p>Paciente de 40 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2010-12-18|2010-12-18|Claudio Ayuso|Claudio Ayuso
+3000115|<p>Paciente de 40 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2010-12-28|2010-12-28|César Benitez|César Benitez
+3000116|<p>Paciente de 40 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2010-12-22|2010-12-22|Gloria Sebastián|Gloria Sebastián
+3000117|<p>Paciente de 40 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Cardiología|LABORATORIO|2010-12-14|2010-12-14|Noa Moreno|Noa Moreno
+3000118|<p>Paciente de 42 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2012-05-15|2012-05-15|Olivia Taboada|Olivia Taboada
+3000119|<p>Paciente de 42 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2012-05-13|2012-05-13|Emiliano Piquer|Emiliano Piquer
+3000120|<p>Paciente de 42 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2012-05-22|2012-05-22|Miguel Mendez|Miguel Mendez
+3000121|<p>Paciente de 42 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2012-05-24|2012-05-24|Mario Valdés|Mario Valdés
+3000122|<p>Paciente de 42 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2012-05-24|2012-05-24|Camila Cazorla|Camila Cazorla
+3000123|<p>Paciente de 42 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Cardiología|LABORATORIO|2012-05-08|2012-05-08|Julián Adán|Julián Adán
+3000124|<p>Paciente de 42 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2013-01-15|2013-01-15|Magdalena Madrid|Magdalena Madrid
+3000125|<p>Paciente de 42 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2013-01-04|2013-01-04|Leonor Arévalo|Leonor Arévalo
+3000126|<p>Paciente de 42 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2013-01-20|2013-01-20|Carolina Melero|Carolina Melero
+3000127|<p>Paciente de 42 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2013-01-19|2013-01-19|Reynaldo Barral|Reynaldo Barral
+3000128|<p>Paciente de 42 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2013-01-04|2013-01-04|Nando Cuesta|Nando Cuesta
+3000129|<p>Paciente de 42 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Cardiología|LABORATORIO|2013-01-10|2013-01-10|Encarnita Pozuelo|Encarnita Pozuelo
+3000130|<p>Paciente de 44 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2014-10-21|2014-10-21|Heliodoro Garcés|Heliodoro Garcés
+3000131|<p>Paciente de 44 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2014-11-08|2014-11-08|Mireia Barranco|Mireia Barranco
+3000132|<p>Paciente de 44 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2014-11-18|2014-11-18|Bautista Caballero|Bautista Caballero
+3000133|<p>Paciente de 44 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Cardiología|LABORATORIO|2014-11-03|2014-11-03|Pánfilo Estrada|Pánfilo Estrada
+3000134|<p>Paciente de 44 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2015-01-01|2015-01-01|Aránzazu Villegas|Aránzazu Villegas
+3000135|<p>Paciente de 44 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2015-01-21|2015-01-21|Guiomar Expósito|Guiomar Expósito
+3000136|<p>Paciente de 44 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2015-01-09|2015-01-09|Agapito Barroso|Agapito Barroso
+3000137|<p>Paciente de 44 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2015-01-07|2015-01-07|Ruy Ferrández|Ruy Ferrández
+3000138|<p>Paciente de 44 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2015-01-09|2015-01-09|Toño Figueras|Toño Figueras
+3000139|<p>Paciente de 46 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2016-04-21|2016-04-21|Salvador Morata|Salvador Morata
+3000140|<p>Paciente de 46 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2016-04-14|2016-04-14|Jesús Tejada|Jesús Tejada
+3000141|<p>Paciente de 46 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2016-05-07|2016-05-07|Luisa Romeu|Luisa Romeu
+3000142|<p>Paciente de 46 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Cardiología|LABORATORIO|2016-04-16|2016-04-16|Dora Fernández|Dora Fernández
+3000143|<p>Paciente de 47 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2017-09-20|2017-09-20|Blas Vaquero|Blas Vaquero
+3000144|<p>Paciente de 47 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2017-09-11|2017-09-11|Ovidio Morata|Ovidio Morata
+3000145|<p>Paciente de 47 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2017-09-19|2017-09-19|Cleto Manzanares|Cleto Manzanares
+3000146|<p>Paciente de 47 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Cardiología|LABORATORIO|2017-09-13|2017-09-13|Gabriel Tejada|Gabriel Tejada
+3000147|<p>Paciente de 47 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2017-09-25|2017-09-25|Amando Barón|Amando Barón
+3000148|<p>Paciente de 47 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2017-12-15|2017-12-15|Rafael Torrents|Rafael Torrents
+3000149|<p>Paciente de 47 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2017-12-31|2017-12-31|Prudencia Salazar|Prudencia Salazar
+3000150|<p>Paciente de 47 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2017-12-31|2017-12-31|Danilo Becerra|Danilo Becerra
+3000151|<p>Paciente de 47 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2017-12-14|2017-12-14|Sabina Andrés|Sabina Andrés
+3000152|<p>Paciente de 47 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2017-12-12|2017-12-12|Casemiro Sobrino|Casemiro Sobrino
+3000153|<p>Paciente de 49 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2019-06-04|2019-06-04|Rosalina Pulido|Rosalina Pulido
+3000154|<p>Paciente de 49 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2019-05-13|2019-05-13|Elena Amo|Elena Amo
+3000155|<p>Paciente de 49 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2019-05-29|2019-05-29|Francisco Javier Pombo|Francisco Javier Pombo
+3000156|<p>Paciente de 49 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2019-05-27|2019-05-27|Sergio Pedrero|Sergio Pedrero
+3000157|<p>Paciente de 49 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2019-05-25|2019-05-25|Isidora Moliner|Isidora Moliner
+3000158|<p>Paciente de 49 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2019-05-23|2019-05-23|Rafael Andrés|Rafael Andrés
+3000159|<p>Paciente de 49 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2019-06-03|2019-06-03|Emiliana Carretero|Emiliana Carretero
+3000160|<p>Paciente de 50 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2020-09-28|2020-09-28|Eusebia Alcaraz|Eusebia Alcaraz
+3000161|<p>Paciente de 50 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2020-10-13|2020-10-13|Arsenio Luís|Arsenio Luís
+3000162|<p>Paciente de 50 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2020-10-04|2020-10-04|Raúl Feijoo|Raúl Feijoo
+3000163|<p>Paciente de 50 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2020-10-18|2020-10-18|Bienvenida Suarez|Bienvenida Suarez
+3000164|<p>Paciente de 50 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2020-09-29|2020-09-29|Manuelita Ferrando|Manuelita Ferrando
+3000165|<p>Paciente de 51 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2021-05-26|2021-05-26|Rita Bayo|Rita Bayo
+3000166|<p>Paciente de 51 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2021-05-31|2021-05-31|Vito Alcaraz|Vito Alcaraz
+3000167|<p>Paciente de 51 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2021-06-12|2021-06-12|Alondra Baena|Alondra Baena
+3000168|<p>Paciente de 51 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2021-06-17|2021-06-17|Clementina Lara|Clementina Lara
+3000169|<p>Paciente de 51 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2021-05-26|2021-05-26|Roberta Salmerón|Roberta Salmerón
+3000170|<p>Paciente de 51 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2021-05-29|2021-05-29|Melisa Mayoral|Melisa Mayoral
+3000171|<p>Paciente de 52 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2022-11-17|2022-11-17|Jessica Pomares|Jessica Pomares
+3000172|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2022-10-25|2022-10-25|Cruz Olivera|Cruz Olivera
+3000173|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2022-10-20|2022-10-20|Candelas Niño|Candelas Niño
+3000174|<p>Paciente de 52 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2022-11-02|2022-11-02|Alma Viñas|Alma Viñas
+3000175|<p>Paciente de 52 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2022-12-05|2022-12-05|Arsenio Sanabria|Arsenio Sanabria
+3000176|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2022-12-03|2022-12-03|Xavier Aragonés|Xavier Aragonés
+3000177|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2022-12-06|2022-12-06|Manu Jurado|Manu Jurado
+3000178|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2022-12-22|2022-12-22|José Luis Vila|José Luis Vila
+3000179|<p>Paciente de 52 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Cardiología|LABORATORIO|2022-12-08|2022-12-08|Herberto Prieto|Herberto Prieto
+3000180|<p>Paciente de 52 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2022-12-23|2022-12-23|Yésica Alvarez|Yésica Alvarez
+3000181|<p>Paciente de 54 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2024-02-22|2024-02-22|Priscila Collado|Priscila Collado
+3000182|<p>Paciente de 54 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Cardiología|Consultas Externas Cardiología|2024-02-22|2024-02-22|Sergio Gracia|Sergio Gracia
+3000183|<p>Paciente de 54 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2024-02-24|2024-02-24|Adelia Rius|Adelia Rius
+3000184|<p>Paciente de 54 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2024-03-07|2024-03-07|Gregorio Segura|Gregorio Segura
+3000185|<p>Paciente de 54 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Endocrinología|Consultas Externas Endocrinología|2024-02-28|2024-02-28|Edelmiro Gallart|Edelmiro Gallart
+3000186|<p>Paciente de 54 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2024-03-05|2024-03-05|Ariel Roda|Ariel Roda
+3000187|<p>Paciente de 55 años. HTA bien controlada. Acude a revisión anual.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2025-09-12|2025-09-12|Javier Corominas|Javier Corominas
+3000188|<p>Paciente de 55 años. DM2 estable con buen control metabólico.</p>|410109|Evolución Medicina|Consultas Externas Medicina de Familia|2025-09-21|2025-09-21|Isidora Vicens|Isidora Vicens
+3000189|<p>Paciente de 55 años. Seguimiento de dislipidemia con estatinas.</p>|410109|Evolución Medicina|LABORATORIO|2025-09-11|2025-09-11|Emilio Roig|Emilio Roig
+3000190|<p>Paciente de 35 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2003-07-22|2003-07-22|Edu Catalá|Edu Catalá
+3000191|<p>Paciente de 36 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2004-06-14|2004-06-14|Ruth Rios|Ruth Rios
+3000192|<p>Paciente de 36 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2005-02-16|2005-02-16|Florencia Acero|Florencia Acero
+3000193|<p>Paciente de 36 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2005-02-24|2005-02-24|María Dolores Bárcena|María Dolores Bárcena
+3000194|<p>Paciente de 37 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2005-12-29|2005-12-29|Emiliana Pardo|Emiliana Pardo
+3000195|<p>Paciente de 37 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2005-12-15|2005-12-15|Vasco Torrijos|Vasco Torrijos
+3000196|<p>Paciente de 38 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2007-03-10|2007-03-10|Tito Carlos|Tito Carlos
+3000197|<p>Paciente de 39 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2007-12-06|2007-12-06|Víctor León|Víctor León
+3000198|<p>Paciente de 39 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2007-12-09|2007-12-09|Carlos Izquierdo|Carlos Izquierdo
+3000199|<p>Paciente de 39 años. Hiperglucemia en analítica rutinaria. Se confirma DM2.</p>|941162|Evolución Endocrinología|LABORATORIO|2008-01-04|2008-01-04|Américo Tamarit|Américo Tamarit
+3000200|<p>Paciente de 39 años. Hiperglucemia en analítica rutinaria. Se confirma DM2.</p>|941162|Evolución Medicina|LABORATORIO|2007-12-29|2007-12-29|Javier Sabater|Javier Sabater
+3000201|<p>Paciente de 41 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2009-11-04|2009-11-04|Leoncio Crespo|Leoncio Crespo
+3000202|<p>Paciente de 41 años. Hiperglucemia en analítica rutinaria. Se confirma DM2.</p>|941162|Evolución Endocrinología|LABORATORIO|2009-11-04|2009-11-04|Maristela Torres|Maristela Torres
+3000203|<p>Paciente de 41 años. Hiperglucemia en analítica rutinaria. Se confirma DM2.</p>|941162|Evolución Medicina|LABORATORIO|2009-10-30|2009-10-30|Haydée Arcos|Haydée Arcos
+3000204|<p>Paciente de 42 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2010-07-18|2010-07-18|María José Gil|María José Gil
+3000205|<p>Paciente de 42 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2010-08-01|2010-08-01|Noelia Torrens|Noelia Torrens
+3000206|<p>Paciente de 42 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2010-07-18|2010-07-18|Inés Domingo|Inés Domingo
+3000207|<p>Paciente de 42 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2010-07-11|2010-07-11|Ana Sofía Ramírez|Ana Sofía Ramírez
+3000208|<p>Paciente de 42 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2010-07-11|2010-07-11|Luís Cámara|Luís Cámara
+3000209|<p>Paciente de 42 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2010-07-30|2010-07-30|Adelina Mármol|Adelina Mármol
+3000210|<p>Paciente de 43 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2011-06-15|2011-06-15|Juana Llamas|Juana Llamas
+3000211|<p>Paciente de 43 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2011-06-20|2011-06-20|Eusebio Cifuentes|Eusebio Cifuentes
+3000212|<p>Paciente de 43 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2011-06-23|2011-06-23|Eugenio Muñoz|Eugenio Muñoz
+3000213|<p>Paciente de 43 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2011-06-04|2011-06-04|Natalia Poza|Natalia Poza
+3000214|<p>Paciente de 43 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2011-06-19|2011-06-19|María José Isern|María José Isern
+3000215|<p>Paciente de 44 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2012-11-18|2012-11-18|Poncio Galindo|Poncio Galindo
+3000216|<p>Paciente de 44 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2012-11-12|2012-11-12|Dalila Rebollo|Dalila Rebollo
+3000217|<p>Paciente de 44 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2012-11-03|2012-11-03|Jenny Cobo|Jenny Cobo
+3000218|<p>Paciente de 44 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2012-11-24|2012-11-24|Nadia Iriarte|Nadia Iriarte
+3000219|<p>Paciente de 44 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2012-11-25|2012-11-25|Juan José Huerta|Juan José Huerta
+3000220|<p>Paciente de 45 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2013-07-24|2013-07-24|Nicodemo León|Nicodemo León
+3000221|<p>Paciente de 45 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2013-07-26|2013-07-26|Marta Frías|Marta Frías
+3000222|<p>Paciente de 45 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2013-08-06|2013-08-06|Nidia Raya|Nidia Raya
+3000223|<p>Paciente de 45 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2013-07-23|2013-07-23|Ildefonso Castro|Ildefonso Castro
+3000224|<p>Paciente de 45 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2014-02-25|2014-02-25|Severiano Lago|Severiano Lago
+3000225|<p>Paciente de 45 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2014-02-22|2014-02-22|Artemio Antón|Artemio Antón
+3000226|<p>Paciente de 45 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2014-02-17|2014-02-17|Ibán Llano|Ibán Llano
+3000227|<p>Paciente de 46 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2015-04-26|2015-04-26|Arcelia Catalán|Arcelia Catalán
+3000228|<p>Paciente de 46 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2015-05-10|2015-05-10|Renato Tejada|Renato Tejada
+3000229|<p>Paciente de 46 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2015-05-11|2015-05-11|Jesús Vélez|Jesús Vélez
+3000230|<p>Paciente de 46 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2015-04-24|2015-04-24|Máxima Rivera|Máxima Rivera
+3000231|<p>Paciente de 48 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2016-06-05|2016-06-05|David Pomares|David Pomares
+3000232|<p>Paciente de 48 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2016-06-26|2016-06-26|Azahar Solé|Azahar Solé
+3000233|<p>Paciente de 49 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2017-07-20|2017-07-20|Ceferino Olivares|Ceferino Olivares
+3000234|<p>Paciente de 49 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2017-07-29|2017-07-29|Herminia Criado|Herminia Criado
+3000235|<p>Paciente de 50 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2018-07-01|2018-07-01|Leopoldo Planas|Leopoldo Planas
+3000236|<p>Paciente de 50 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2018-07-17|2018-07-17|Josué Ángel|Josué Ángel
+3000237|<p>Paciente de 50 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2018-07-09|2018-07-09|Roberta Escamilla|Roberta Escamilla
+3000238|<p>Paciente de 51 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2019-08-05|2019-08-05|Jose Angel Aguilar|Jose Angel Aguilar
+3000239|<p>Paciente de 51 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2019-07-13|2019-07-13|Che Larrañaga|Che Larrañaga
+3000240|<p>Paciente de 51 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2019-07-16|2019-07-16|René Izaguirre|René Izaguirre
+3000241|<p>Paciente de 51 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2019-07-23|2019-07-23|Amor Anguita|Amor Anguita
+3000242|<p>Paciente de 51 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2019-07-08|2019-07-08|Alex Román|Alex Román
+3000243|<p>Paciente de 52 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2020-11-02|2020-11-02|Bernardo Isern|Bernardo Isern
+3000244|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2020-11-08|2020-11-08|Francisco Javier Gutiérrez|Francisco Javier Gutiérrez
+3000245|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2020-11-04|2020-11-04|Azahar Sans|Azahar Sans
+3000246|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2020-11-21|2020-11-21|Juan Francisco Diego|Juan Francisco Diego
+3000247|<p>Paciente de 53 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2021-06-17|2021-06-17|Macario Blanch|Macario Blanch
+3000248|<p>Paciente de 53 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2021-06-08|2021-06-08|Chita Azcona|Chita Azcona
+3000249|<p>Paciente de 53 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2021-05-27|2021-05-27|Ángel Rincón|Ángel Rincón
+3000250|<p>Paciente de 53 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2021-06-13|2021-06-13|María Dolores Nevado|María Dolores Nevado
+3000251|<p>Paciente de 53 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2022-04-03|2022-04-03|Nazario Millán|Nazario Millán
+3000252|<p>Paciente de 53 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2022-04-12|2022-04-12|Félix Bernat|Félix Bernat
+3000253|<p>Paciente de 53 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2022-03-27|2022-03-27|Jacobo Amat|Jacobo Amat
+3000254|<p>Paciente de 55 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2023-09-02|2023-09-02|María Del Carmen Tenorio|María Del Carmen Tenorio
+3000255|<p>Paciente de 55 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2023-08-23|2023-08-23|Dalila Pina|Dalila Pina
+3000256|<p>Paciente de 55 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2023-08-21|2023-08-21|Natividad Anaya|Natividad Anaya
+3000257|<p>Paciente de 55 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2023-08-26|2023-08-26|Maricruz Valenciano|Maricruz Valenciano
+3000258|<p>Paciente de 55 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2023-09-01|2023-09-01|Nando Acosta|Nando Acosta
+3000259|<p>Paciente de 56 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2024-08-27|2024-08-27|Chuy Santana|Chuy Santana
+3000260|<p>Paciente de 56 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2024-08-24|2024-08-24|Adriana Luna|Adriana Luna
+3000261|<p>Paciente de 56 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2024-08-30|2024-08-30|Brunilda Acevedo|Brunilda Acevedo
+3000262|<p>Paciente de 56 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2025-02-27|2025-02-27|Nazaret Balaguer|Nazaret Balaguer
+3000263|<p>Paciente de 56 años. HTA bien controlada. Acude a revisión anual.</p>|941162|Evolución Cardiología|Consultas Externas Cardiología|2025-03-13|2025-03-13|Natalia Aroca|Natalia Aroca
+3000264|<p>Paciente de 56 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2025-02-26|2025-02-26|Rosario Pacheco|Rosario Pacheco
+3000265|<p>Paciente de 56 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Endocrinología|Consultas Externas Endocrinología|2025-03-18|2025-03-18|Cleto Canet|Cleto Canet
+3000266|<p>Paciente de 56 años. DM2 estable con buen control metabólico.</p>|941162|Evolución Medicina|Consultas Externas Medicina de Familia|2025-03-07|2025-03-07|Sebastian Varela|Sebastian Varela
+3000267|<p>Paciente de 21 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Neumología|Consultas Externas Neumología|2015-12-22|2015-12-22|Mónica Nicolás|Mónica Nicolás
+3000268|<p>Paciente de 21 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Neumología|Consultas Externas Neumología|2015-11-24|2015-11-24|Xavier Cañete|Xavier Cañete
+3000269|<p>Paciente de 22 años. Aumento de disnea y expectoración.</p>|943899|Evolución Medicina|PROCESO URGENCIAS|2016-06-21|2016-06-21|Juan Luis Oliva|Juan Luis Oliva
+3000270|<p>Paciente de 22 años. Aumento de disnea y expectoración.</p>|943899|Evolución Medicina|PROCESO URGENCIAS|2016-06-23|2016-06-23|Efraín Grande|Efraín Grande
+3000271|<p>Paciente de 22 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Neumología|Consultas Externas Neumología|2017-04-27|2017-04-27|Luciana Quero|Luciana Quero
+3000272|<p>Paciente de 24 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Neumología|Consultas Externas Neumología|2018-08-02|2018-08-02|María Ángeles Cadenas|María Ángeles Cadenas
+3000273|<p>Paciente de 24 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Medicina|Consultas Externas Medicina Interna|2018-07-22|2018-07-22|Olegario Reyes|Olegario Reyes
+3000274|<p>Paciente de 24 años. Aumento de disnea y expectoración.</p>|943899|Evolución Medicina|PROCESO URGENCIAS|2019-05-10|2019-05-10|Lucas Pardo|Lucas Pardo
+3000275|<p>Paciente de 24 años. Aumento de disnea y expectoración.</p>|943899|Evolución Medicina|PROCESO URGENCIAS|2019-05-26|2019-05-26|Simón Nogueira|Simón Nogueira
+3000276|<p>Paciente de 25 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Neumología|Consultas Externas Neumología|2020-05-17|2020-05-17|Teodora Peralta|Teodora Peralta
+3000277|<p>Paciente de 25 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Neumología|Consultas Externas Neumología|2020-05-19|2020-05-19|Eufemia Rosell|Eufemia Rosell
+3000278|<p>Paciente de 26 años. Aumento de disnea y expectoración.</p>|943899|Evolución Medicina|PROCESO URGENCIAS|2021-05-23|2021-05-23|Benita Campos|Benita Campos
+3000279|<p>Paciente de 27 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Medicina|Consultas Externas Medicina Interna|2021-12-29|2021-12-29|Ezequiel Font|Ezequiel Font
+3000280|<p>Paciente de 28 años. Aumento de disnea y expectoración.</p>|943899|Evolución Medicina|PROCESO URGENCIAS|2023-03-25|2023-03-25|Nicodemo Pons|Nicodemo Pons
+3000281|<p>Paciente de 28 años. Aumento de disnea y expectoración.</p>|943899|Evolución Neumología|PROCESO URGENCIAS|2023-03-19|2023-03-19|José Luis Leal|José Luis Leal
+3000282|<p>Paciente de 30 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Neumología|Consultas Externas Neumología|2024-07-31|2024-07-31|Martina Tomas|Martina Tomas
+3000283|<p>Paciente de 30 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Medicina|Consultas Externas Medicina Interna|2024-08-07|2024-08-07|Teobaldo Andrés|Teobaldo Andrés
+3000284|<p>Paciente de 31 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Neumología|Consultas Externas Neumología|2025-08-18|2025-08-18|Leyre Llabrés|Leyre Llabrés
+3000285|<p>Paciente de 31 años. EPOC estable con su tratamiento broncodilatador.</p>|943899|Evolución Neumología|Consultas Externas Neumología|2025-09-11|2025-09-11|Lorena Coca|Lorena Coca
+3000286|<p>Paciente de 36 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|1994-12-18|1994-12-18|Xavier Mir|Xavier Mir
+3000287|<p>Paciente de 36 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|1994-12-13|1994-12-13|Ibán Baena|Ibán Baena
+3000288|<p>Paciente de 37 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|1996-06-14|1996-06-14|Timoteo Baena|Timoteo Baena
+3000289|<p>Paciente de 37 años. Cifras de TA elevadas. Se solicita MAPA para confirmar HTA.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|1996-05-31|1996-05-31|Tecla Campoy|Tecla Campoy
+3000290|<p>Paciente de 38 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|1996-12-13|1996-12-13|Sebastian Rey|Sebastian Rey
+3000291|<p>Paciente de 38 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|1997-01-05|1997-01-05|Emiliano Campos|Emiliano Campos
+3000292|<p>Paciente de 38 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|1997-01-08|1997-01-08|Pedro Calzada|Pedro Calzada
+3000293|<p>Paciente de 40 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|1998-07-09|1998-07-09|Salvador Bermejo|Salvador Bermejo
+3000294|<p>Paciente de 40 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|1998-07-09|1998-07-09|Bernardita Palmer|Bernardita Palmer
+3000295|<p>Paciente de 40 años. Seguimiento por HTA. Se ajusta dosis de tratamiento.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|1998-07-15|1998-07-15|Paloma Cañizares|Paloma Cañizares
+3000296|<p>Paciente de 40 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|1999-02-02|1999-02-02|Bernarda Alemán|Bernarda Alemán
+3000297|<p>Paciente de 42 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2000-07-20|2000-07-20|Espiridión Mate|Espiridión Mate
+3000298|<p>Paciente de 42 años. Hiperglucemia en analítica rutinaria. Se confirma DM2.</p>|225917|Evolución Medicina|LABORATORIO|2000-07-30|2000-07-30|Josué Díez|Josué Díez
+3000299|<p>Paciente de 42 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2000-12-13|2000-12-13|Horacio Pomares|Horacio Pomares
+3000300|<p>Paciente de 42 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2001-01-06|2001-01-06|Américo Abellán|Américo Abellán
+3000301|<p>Paciente de 42 años. Hiperglucemia en analítica rutinaria. Se confirma DM2.</p>|225917|Evolución Endocrinología|LABORATORIO|2000-12-15|2000-12-15|Dora Mena|Dora Mena
+3000302|<p>Paciente de 42 años. Hiperglucemia en analítica rutinaria. Se confirma DM2.</p>|225917|Evolución Medicina|LABORATORIO|2000-12-20|2000-12-20|Albert Ferrer|Albert Ferrer
+3000303|<p>Paciente de 44 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2002-11-20|2002-11-20|Concha Fajardo|Concha Fajardo
+3000304|<p>Paciente de 44 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2002-11-18|2002-11-18|Candela Manzanares|Candela Manzanares
+3000305|<p>Paciente de 44 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2002-12-03|2002-12-03|Yolanda Palma|Yolanda Palma
+3000306|<p>Paciente de 44 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2002-11-23|2002-11-23|Jose Miguel Serra|Jose Miguel Serra
+3000307|<p>Paciente de 44 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2002-11-12|2002-11-12|Tito Carbonell|Tito Carbonell
+3000308|<p>Paciente de 44 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2002-12-02|2002-12-02|Isidora Llopis|Isidora Llopis
+3000309|<p>Paciente de 45 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2003-12-21|2003-12-21|Rosa Valverde|Rosa Valverde
+3000310|<p>Paciente de 45 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2003-12-17|2003-12-17|Manuela Coll|Manuela Coll
+3000311|<p>Paciente de 45 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2003-11-27|2003-11-27|Manuel Múgica|Manuel Múgica
+3000312|<p>Paciente de 45 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2003-12-08|2003-12-08|Donato Calleja|Donato Calleja
+3000313|<p>Paciente de 45 años. Mal control glucémico. Se añade segundo antidiabético oral.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2003-12-09|2003-12-09|Ricarda Priego|Ricarda Priego
+3000314|<p>Paciente de 45 años. Cifras de Colesterol LDL elevadas.</p>|225917|Evolución Medicina|LABORATORIO|2003-12-11|2003-12-11|Emilio Reyes|Emilio Reyes
+3000315|<p>Paciente de 45 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2004-02-04|2004-02-04|Teodoro Cerezo|Teodoro Cerezo
+3000316|<p>Paciente de 45 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2004-02-26|2004-02-26|Noé Mir|Noé Mir
+3000317|<p>Paciente de 45 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2004-02-24|2004-02-24|Reina Ribera|Reina Ribera
+3000318|<p>Paciente de 45 años. Cifras de Colesterol LDL elevadas.</p>|225917|Evolución Medicina|LABORATORIO|2004-02-13|2004-02-13|Leyre Sacristán|Leyre Sacristán
+3000319|<p>Paciente de 46 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2005-06-14|2005-06-14|Rita Amorós|Rita Amorós
+3000320|<p>Paciente de 46 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2005-06-19|2005-06-19|Rocío Martorell|Rocío Martorell
+3000321|<p>Paciente de 46 años. Cifras de Colesterol LDL elevadas.</p>|225917|Evolución Cardiología|LABORATORIO|2005-06-08|2005-06-08|Teodoro Castrillo|Teodoro Castrillo
+3000322|<p>Paciente de 48 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2006-11-20|2006-11-20|Simón Uribe|Simón Uribe
+3000323|<p>Paciente de 48 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2006-11-30|2006-11-30|María Sans|María Sans
+3000324|<p>Paciente de 48 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2006-11-25|2006-11-25|Trini Nuñez|Trini Nuñez
+3000325|<p>Paciente de 48 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2006-12-04|2006-12-04|Eleuterio Llamas|Eleuterio Llamas
+3000326|<p>Paciente de 48 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2006-11-27|2006-11-27|Eusebio Pomares|Eusebio Pomares
+3000327|<p>Paciente de 48 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2006-11-26|2006-11-26|Caridad Nicolás|Caridad Nicolás
+3000328|<p>Paciente de 49 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2007-09-14|2007-09-14|Samu Lago|Samu Lago
+3000329|<p>Paciente de 49 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2007-10-01|2007-10-01|Angelita Echevarría|Angelita Echevarría
+3000330|<p>Paciente de 49 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2007-09-25|2007-09-25|Laura Heredia|Laura Heredia
+3000331|<p>Paciente de 49 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2007-09-26|2007-09-26|Prudencia Andres|Prudencia Andres
+3000332|<p>Paciente de 49 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2007-09-27|2007-09-27|Primitiva Escobar|Primitiva Escobar
+3000333|<p>Paciente de 49 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2007-09-17|2007-09-17|Ana Bellido|Ana Bellido
+3000334|<p>Paciente de 49 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2007-09-21|2007-09-21|Zaira Vallés|Zaira Vallés
+3000335|<p>Paciente de 49 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2008-03-08|2008-03-08|Maribel Cueto|Maribel Cueto
+3000336|<p>Paciente de 49 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2008-02-29|2008-02-29|Ambrosio Manjón|Ambrosio Manjón
+3000337|<p>Paciente de 49 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2008-03-19|2008-03-19|Vilma Pascual|Vilma Pascual
+3000338|<p>Paciente de 49 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2008-03-18|2008-03-18|Néstor Acuña|Néstor Acuña
+3000339|<p>Paciente de 49 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2008-03-16|2008-03-16|Nieves Puig|Nieves Puig
+3000340|<p>Paciente de 49 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2008-03-14|2008-03-14|Chita Conesa|Chita Conesa
+3000341|<p>Paciente de 51 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2009-09-05|2009-09-05|Andrés Felipe Báez|Andrés Felipe Báez
+3000342|<p>Paciente de 51 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2009-09-22|2009-09-22|Melisa Martin|Melisa Martin
+3000343|<p>Paciente de 51 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2009-10-03|2009-10-03|Rodrigo Pou|Rodrigo Pou
+3000344|<p>Paciente de 52 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2010-07-22|2010-07-22|Víctor Macias|Víctor Macias
+3000345|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2010-07-17|2010-07-17|Jose Ramón Ferrando|Jose Ramón Ferrando
+3000346|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2010-08-10|2010-08-10|Asunción Mata|Asunción Mata
+3000347|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2010-07-18|2010-07-18|Hilda Egea|Hilda Egea
+3000348|<p>Paciente de 52 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2010-08-11|2010-08-11|Cándido Ayllón|Cándido Ayllón
+3000349|<p>Paciente de 52 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2010-12-21|2010-12-21|Espiridión Amigó|Espiridión Amigó
+3000350|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2011-01-04|2011-01-04|Fernando Feijoo|Fernando Feijoo
+3000351|<p>Paciente de 52 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2010-12-25|2010-12-25|Roberto Moya|Roberto Moya
+3000352|<p>Paciente de 52 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2010-12-24|2010-12-24|Carlito Miranda|Carlito Miranda
+3000353|<p>Paciente de 52 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2011-01-09|2011-01-09|Ramona Real|Ramona Real
+3000354|<p>Paciente de 53 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2012-04-08|2012-04-08|Bernardo Mosquera|Bernardo Mosquera
+3000355|<p>Paciente de 53 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2012-04-10|2012-04-10|Domitila Aranda|Domitila Aranda
+3000356|<p>Paciente de 53 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2012-04-10|2012-04-10|Adela Figueroa|Adela Figueroa
+3000357|<p>Paciente de 53 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2012-04-17|2012-04-17|Bernabé Llanos|Bernabé Llanos
+3000358|<p>Paciente de 53 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2012-04-15|2012-04-15|Reina Clavero|Reina Clavero
+3000359|<p>Paciente de 54 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2013-02-06|2013-02-06|Andrés Cañete|Andrés Cañete
+3000360|<p>Paciente de 54 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2013-02-03|2013-02-03|Teresa Puga|Teresa Puga
+3000361|<p>Paciente de 54 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2013-02-05|2013-02-05|Elba Soler|Elba Soler
+3000362|<p>Paciente de 54 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2013-01-13|2013-01-13|Ciriaco Perea|Ciriaco Perea
+3000363|<p>Paciente de 54 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2013-01-14|2013-01-14|Aarón Mínguez|Aarón Mínguez
+3000364|<p>Paciente de 54 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2013-01-17|2013-01-17|Ciro Merino|Ciro Merino
+3000365|<p>Paciente de 54 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2013-01-16|2013-01-16|Regina Quiroga|Regina Quiroga
+3000366|<p>Paciente de 56 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2014-10-20|2014-10-20|Manu Amorós|Manu Amorós
+3000367|<p>Paciente de 56 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2014-11-12|2014-11-12|María Dolores Moraleda|María Dolores Moraleda
+3000368|<p>Paciente de 56 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2014-11-11|2014-11-11|Ana Belén Nebot|Ana Belén Nebot
+3000369|<p>Paciente de 56 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2014-10-25|2014-10-25|Marcelino Mateos|Marcelino Mateos
+3000370|<p>Paciente de 56 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2014-11-18|2014-11-18|Manu Guardia|Manu Guardia
+3000371|<p>Paciente de 56 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2014-10-31|2014-10-31|Nadia Barrios|Nadia Barrios
+3000372|<p>Paciente de 57 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2015-10-05|2015-10-05|Eli Bermejo|Eli Bermejo
+3000373|<p>Paciente de 57 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2015-09-18|2015-09-18|Teófila Gras|Teófila Gras
+3000374|<p>Paciente de 57 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2015-10-03|2015-10-03|Amor Jordá|Amor Jordá
+3000375|<p>Paciente de 57 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2016-02-04|2016-02-04|Jose Francisco Mínguez|Jose Francisco Mínguez
+3000376|<p>Paciente de 57 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2016-02-08|2016-02-08|Paola Núñez|Paola Núñez
+3000377|<p>Paciente de 57 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2016-01-10|2016-01-10|Teodoro Soria|Teodoro Soria
+3000378|<p>Paciente de 57 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2016-01-23|2016-01-23|Sabas Baena|Sabas Baena
+3000379|<p>Paciente de 57 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2016-02-04|2016-02-04|Graciano Marcos|Graciano Marcos
+3000380|<p>Paciente de 57 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2016-01-25|2016-01-25|Adelina Hoyos|Adelina Hoyos
+3000381|<p>Paciente de 57 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2016-02-09|2016-02-09|Aurelio Gilabert|Aurelio Gilabert
+3000382|<p>Paciente de 59 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2017-07-23|2017-07-23|Leonor Carrasco|Leonor Carrasco
+3000383|<p>Paciente de 59 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2017-07-05|2017-07-05|Amelia Giménez|Amelia Giménez
+3000384|<p>Paciente de 59 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2017-07-08|2017-07-08|Rosario Villar|Rosario Villar
+3000385|<p>Paciente de 59 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2017-07-12|2017-07-12|Régulo Borja|Régulo Borja
+3000386|<p>Paciente de 59 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2017-07-13|2017-07-13|Lourdes Arenas|Lourdes Arenas
+3000387|<p>Paciente de 59 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2017-07-25|2017-07-25|Eugenia Barrera|Eugenia Barrera
+3000388|<p>Paciente de 59 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2017-07-04|2017-07-04|Evaristo Boix|Evaristo Boix
+3000389|<p>Paciente de 60 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2018-09-30|2018-09-30|Eliana Juliá|Eliana Juliá
+3000390|<p>Paciente de 60 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2018-09-17|2018-09-17|Adán Artigas|Adán Artigas
+3000391|<p>Paciente de 60 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2018-10-05|2018-10-05|Celestina Fiol|Celestina Fiol
+3000392|<p>Paciente de 60 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2018-10-08|2018-10-08|Gema Pina|Gema Pina
+3000393|<p>Paciente de 60 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2018-09-22|2018-09-22|Rita Briones|Rita Briones
+3000394|<p>Paciente de 60 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2019-05-21|2019-05-21|Amado Nicolás|Amado Nicolás
+3000395|<p>Paciente de 60 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2019-05-01|2019-05-01|Jose Luis Pizarro|Jose Luis Pizarro
+3000396|<p>Paciente de 60 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2019-05-24|2019-05-24|Cebrián Ferreras|Cebrián Ferreras
+3000397|<p>Paciente de 60 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2019-05-01|2019-05-01|Inmaculada Cabañas|Inmaculada Cabañas
+3000398|<p>Paciente de 60 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2019-05-18|2019-05-18|Aurelia Tena|Aurelia Tena
+3000399|<p>Paciente de 61 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2020-04-14|2020-04-14|Pascuala Pacheco|Pascuala Pacheco
+3000400|<p>Paciente de 61 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2020-05-13|2020-05-13|Raimundo Benavent|Raimundo Benavent
+3000401|<p>Paciente de 61 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2020-05-01|2020-05-01|Soraya Quintanilla|Soraya Quintanilla
+3000402|<p>Paciente de 61 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2020-04-25|2020-04-25|Aurelio Zaragoza|Aurelio Zaragoza
+3000403|<p>Paciente de 61 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2020-04-27|2020-04-27|Fausto Pombo|Fausto Pombo
+3000404|<p>Paciente de 63 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2021-11-30|2021-11-30|Maristela Nadal|Maristela Nadal
+3000405|<p>Paciente de 63 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2021-12-02|2021-12-02|Ruth Fajardo|Ruth Fajardo
+3000406|<p>Paciente de 63 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2021-12-02|2021-12-02|Nicolasa Mayol|Nicolasa Mayol
+3000407|<p>Paciente de 63 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2021-12-03|2021-12-03|Chus Vega|Chus Vega
+3000408|<p>Paciente de 63 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2021-11-20|2021-11-20|Rosa Iniesta|Rosa Iniesta
+3000409|<p>Paciente de 63 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2022-03-01|2022-03-01|Jose Ignacio Palomo|Jose Ignacio Palomo
+3000410|<p>Paciente de 63 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Cardiología|Consultas Externas Cardiología|2022-02-20|2022-02-20|Carlos Villalonga|Carlos Villalonga
+3000411|<p>Paciente de 63 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2022-02-19|2022-02-19|Asdrubal Badía|Asdrubal Badía
+3000412|<p>Paciente de 63 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2022-02-14|2022-02-14|Odalis Llorente|Odalis Llorente
+3000413|<p>Paciente de 63 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2022-02-03|2022-02-03|María Pilar Osorio|María Pilar Osorio
+3000414|<p>Paciente de 65 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2023-08-28|2023-08-28|Silvio Uribe|Silvio Uribe
+3000415|<p>Paciente de 65 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2023-08-13|2023-08-13|Domingo Benítez|Domingo Benítez
+3000416|<p>Paciente de 65 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2023-08-29|2023-08-29|Aureliano Vallés|Aureliano Vallés
+3000417|<p>Paciente de 65 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2023-09-01|2023-09-01|Maricela Sainz|Maricela Sainz
+3000418|<p>Paciente de 65 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2023-09-01|2023-09-01|Edmundo Clavero|Edmundo Clavero
+3000419|<p>Paciente de 65 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2023-08-15|2023-08-15|Inmaculada Quintero|Inmaculada Quintero
+3000420|<p>Paciente de 65 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2023-12-11|2023-12-11|Gloria Moreno|Gloria Moreno
+3000421|<p>Paciente de 65 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2023-12-14|2023-12-14|Otilia Ferrández|Otilia Ferrández
+3000422|<p>Paciente de 65 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2023-12-21|2023-12-21|Gloria Goñi|Gloria Goñi
+3000423|<p>Paciente de 65 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2023-12-10|2023-12-10|Artemio Montes|Artemio Montes
+3000424|<p>Paciente de 65 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Medicina|LABORATORIO|2024-01-09|2024-01-09|Nilda Velázquez|Nilda Velázquez
+3000425|<p>Paciente de 67 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2025-12-07|2025-12-07|Alexandra Téllez|Alexandra Téllez
+3000426|<p>Paciente de 67 años. HTA bien controlada. Acude a revisión anual.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2025-11-13|2025-11-13|Imelda Suarez|Imelda Suarez
+3000427|<p>Paciente de 67 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2025-12-11|2025-12-11|Inocencio Aranda|Inocencio Aranda
+3000428|<p>Paciente de 67 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Endocrinología|Consultas Externas Endocrinología|2025-11-14|2025-11-14|Estefanía Pinilla|Estefanía Pinilla
+3000429|<p>Paciente de 67 años. DM2 estable con buen control metabólico.</p>|225917|Evolución Medicina|Consultas Externas Medicina de Familia|2025-11-29|2025-11-29|Anastasia Viña|Anastasia Viña
+3000430|<p>Paciente de 67 años. Seguimiento de dislipidemia con estatinas.</p>|225917|Evolución Cardiología|LABORATORIO|2025-11-15|2025-11-15|Laura Guzmán|Laura Guzmán
+3000431|<p>Paciente de 20 años. Acude para revisión general de salud. Asintomático.</p>|963457|Evolución Medicina|LABORATORIO|2000-09-02|2000-09-02|Guiomar Miralles|Guiomar Miralles
+3000432|<p>Paciente de 21 años. Acude para revisión general de salud. Asintomático.</p>|963457|Evolución Medicina|LABORATORIO|2001-02-21|2001-02-21|Gala Gimeno|Gala Gimeno
+3000433|<p>Paciente de 23 años. Acude para revisión general de salud. Asintomático.</p>|963457|Evolución Medicina|LABORATORIO|2003-11-04|2003-11-04|Gabriel Muro|Gabriel Muro
+3000434|<p>Paciente de 25 años. Acude para revisión general de salud. Asintomático.</p>|963457|Evolución Medicina|LABORATORIO|2005-12-06|2005-12-06|Clara Garzón|Clara Garzón
+3000435|<p>Paciente de 32 años. Acude para revisión general de salud. Asintomático.</p>|963457|Evolución Medicina|LABORATORIO|2012-07-07|2012-07-07|Custodia Diez|Custodia Diez
+3000436|<p>Paciente de 33 años. Acude para revisión general de salud. Asintomático.</p>|963457|Evolución Medicina|LABORATORIO|2013-09-05|2013-09-05|Nicolasa Estevez|Nicolasa Estevez
+3000437|<p>Paciente de 35 años. Acude para revisión general de salud. Asintomático.</p>|963457|Evolución Medicina|LABORATORIO|2015-07-25|2015-07-25|Edelmiro Barbero|Edelmiro Barbero
+3000438|<p>Paciente de 36 años. Acude para revisión general de salud. Asintomático.</p>|963457|Evolución Medicina|LABORATORIO|2016-05-20|2016-05-20|Mariana Soriano|Mariana Soriano
+3000439|<p>Paciente de 37 años. Acude para revisión general de salud. Asintomático.</p>|963457|Evolución Medicina|LABORATORIO|2017-09-05|2017-09-05|Narciso Cuéllar|Narciso Cuéllar
+3000440|<p>Paciente de 38 años. Acude para revisión general de salud. Asintomático.</p>|963457|Evolución Medicina|LABORATORIO|2018-10-02|2018-10-02|Pascual Herranz|Pascual Herranz
+3000441|<p>Paciente de 40 años. Acude para revisión general de salud. Asintomático.</p>|963457|Evolución Medicina|LABORATORIO|2020-09-05|2020-09-05|Vanesa Tirado|Vanesa Tirado
+3000442|<p>Paciente de 23 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2007-04-24|2007-04-24|Marta Busquets|Marta Busquets
+3000443|<p>Paciente de 23 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2007-05-02|2007-05-02|Antonia Marqués|Antonia Marqués
+3000444|<p>Paciente de 24 años. Aumento de disnea y expectoración.</p>|6028|Evolución Medicina|PROCESO URGENCIAS|2008-12-03|2008-12-03|Maximino Coloma|Maximino Coloma
+3000445|<p>Paciente de 25 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2009-09-23|2009-09-23|Dorita Luque|Dorita Luque
+3000446|<p>Paciente de 25 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2009-09-18|2009-09-18|Encarnita Torrent|Encarnita Torrent
+3000447|<p>Paciente de 26 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2010-08-27|2010-08-27|Maximino Ramirez|Maximino Ramirez
+3000448|<p>Paciente de 26 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2010-08-18|2010-08-18|Pedro Santos|Pedro Santos
+3000449|<p>Paciente de 27 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2011-03-20|2011-03-20|Regina Valera|Regina Valera
+3000450|<p>Paciente de 27 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2011-03-22|2011-03-22|Gabriel Osuna|Gabriel Osuna
+3000451|<p>Paciente de 28 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2012-09-22|2012-09-22|Cruz Palomo|Cruz Palomo
+3000452|<p>Paciente de 28 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2012-09-16|2012-09-16|Julio César Heras|Julio César Heras
+3000453|<p>Paciente de 29 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2013-05-02|2013-05-02|Juana Acedo|Juana Acedo
+3000454|<p>Paciente de 29 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2013-04-13|2013-04-13|Carlos Bueno|Carlos Bueno
+3000455|<p>Paciente de 30 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2014-11-15|2014-11-15|Rosaura Hoz|Rosaura Hoz
+3000456|<p>Paciente de 30 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2014-12-21|2014-12-21|Luis Ángel Villalonga|Luis Ángel Villalonga
+3000457|<p>Paciente de 32 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2016-08-14|2016-08-14|Vasco Isern|Vasco Isern
+3000458|<p>Paciente de 34 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2018-11-22|2018-11-22|Amaya Salinas|Amaya Salinas
+3000459|<p>Paciente de 34 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2018-12-03|2018-12-03|Ezequiel Menéndez|Ezequiel Menéndez
+3000460|<p>Paciente de 34 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2019-02-07|2019-02-07|René Lago|René Lago
+3000461|<p>Paciente de 35 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2020-01-10|2020-01-10|Nicanor Roura|Nicanor Roura
+3000462|<p>Paciente de 37 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2021-11-10|2021-11-10|Hector Cánovas|Hector Cánovas
+3000463|<p>Paciente de 37 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2021-10-30|2021-10-30|Luisa Pi|Luisa Pi
+3000464|<p>Paciente de 38 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2022-03-13|2022-03-13|Abel Garay|Abel Garay
+3000465|<p>Paciente de 39 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2023-03-25|2023-03-25|Aránzazu Cabanillas|Aránzazu Cabanillas
+3000466|<p>Paciente de 39 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2023-03-17|2023-03-17|Jose Angel Nuñez|Jose Angel Nuñez
+3000467|<p>Paciente de 40 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2024-05-09|2024-05-09|Ignacia Ochoa|Ignacia Ochoa
+3000468|<p>Paciente de 40 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2024-05-04|2024-05-04|Gerardo Andres|Gerardo Andres
+3000469|<p>Paciente de 41 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Medicina|Consultas Externas Medicina Interna|2025-02-26|2025-02-26|Pascuala Barceló|Pascuala Barceló
+3000470|<p>Paciente de 41 años. EPOC estable con su tratamiento broncodilatador.</p>|6028|Evolución Neumología|Consultas Externas Neumología|2025-03-09|2025-03-09|Anita Salvador|Anita Salvador
